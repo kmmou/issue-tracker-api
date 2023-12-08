@@ -1,5 +1,5 @@
-const Issue = require('../models/issue')
-const User = require('../models/user')
+const Issue = require('../models/Issue')
+const User = require('../models/User')
 const asyncHandler = require('express-async-handler')
 
 // @desc Get all issues

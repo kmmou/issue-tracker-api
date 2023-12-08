@@ -1,5 +1,5 @@
-const User = require('../models/user')
-const Issue = require('../models/issue')
+const User = require('../models/User')
+const Issue = require('../models/Issue')
 const asyncHandler = require('express-async-handler')
 const bcrypt = require('bcrypt')
 
